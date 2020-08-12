@@ -19,10 +19,10 @@ No treinamento do modelo, o melhor resultado foi com o algoritmo Random Forest, 
 
 O dataset foi composto por cerca de 6 mil imagens relativas às nove tipografias contidas nessa fase do projeto. 
 
-Esse dataset foi completamente construído pela equipe, utilizando Python para manipulação dos arquivos, limpeza e preparação das imagens. As imagens foram obtidas principalmente no FontsInUse.
+Esse dataset foi completamente construído pela equipe, utilizando Python para manipulação dos arquivos, limpeza e preparação das imagens. As imagens foram obtidas principalmente no [FontsInUse](https://fontsinuse.com/).
 
 ## Equipe
 
 @fegvilela - desenvolvimento de software
-@lucruz - design do produto e product owner
+@lucianacruz - design do produto e product owner
 
