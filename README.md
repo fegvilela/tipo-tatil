@@ -9,9 +9,9 @@ Esse repositório contém o "core" do software: o sistema de reconhecimento e cl
 
 ## Tecnologias utilizadas
 
-O sistema foi desenvolvido em Python, utilizando principalmente as bibliotecas OpenCV (para manipulação das imagens e extração de features) e scikit-learn (para treinamento dos modelos).
+O sistema foi desenvolvido em Python, utilizando principalmente as bibliotecas [OpenCV](https://opencv.org/) (para manipulação das imagens e extração de features) e [scikit-learn](https://scikit-learn.org/stable/) (para treinamento dos modelos).
 
-Para extração de features, o melhor resultado foi obtido com o algoritmo LBP (Local Binary Pattern).
+Para extração de features, o melhor resultado foi obtido com o algoritmo [LBP (Local Binary Pattern)](https://www.pyimagesearch.com/2015/12/07/local-binary-patterns-with-python-opencv/).
 
 No treinamento do modelo, o melhor resultado foi com o algoritmo Random Forest, utilizando também K-Fold para a divisão de subconjuntos durante o processo.
 
