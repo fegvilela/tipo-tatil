@@ -23,6 +23,6 @@ Esse dataset foi completamente construído pela equipe, utilizando Python para m
 
 ## Equipe
 
-@fegvilela - desenvolvimento de software
-@lucianacruz - design do produto e product owner
+[@fegvilela](https://github.com/fegvilela) - desenvolvimento de software
+[@lucianacruz](https://github.com/lucianacruz) - design do produto e product owner
 
