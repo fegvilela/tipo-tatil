@@ -1,5 +1,5 @@
 # Tipo Tátil 
-[Wiki e README em construção]
+_[[Wiki](https://github.com/fegvilela/tipo-tatil/wiki) e [README](https://github.com/fegvilela/tipo-tatil/blob/master/README.md) em construção]_
 
 Tipo Tátil é um produto de tecnologia assistiva cujo objetivo é introduzir o deficiente visual ao universo da tipografia.
 
