@@ -1,6 +1,8 @@
 # Tipo Tátil 
 _[[Wiki](https://github.com/fegvilela/tipo-tatil/wiki) e [README](https://github.com/fegvilela/tipo-tatil/blob/master/README.md) em construção]_
 
+_Disclaimer: esse foi meu primeiro projeto em python, está precisando de uma boa repaginada (PEP8, por exemplo)_
+
 Tipo Tátil é um produto de tecnologia assistiva cujo objetivo é introduzir o deficiente visual ao universo da tipografia.
 
 O produto é composto por alfabeto e caracteres táteis (em MDF) disponíveis em várias tipografias diferentes e um software para guiar o usuário em sua jornada. 
